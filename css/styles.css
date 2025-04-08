@@ -13,9 +13,16 @@ h3 {
   top: 50px;
 }
 
-.products {
+#products {
   display: grid;
-  row-gap: 50px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 0 auto;
+}
+
+.product {
+  text-align: center;
+  padding: 10px;
 }
 
 .productImg {
