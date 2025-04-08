@@ -1,0 +1,11 @@
+/* homepage styles */
+
+#productBody {
+  border: 5px solid #0053E2;
+  border-radius: 20px;
+  margin: 0 auto;
+  padding: 2rem;
+  width: 80rem;
+  position: relative;
+  top: 50px;
+}
