@@ -127,5 +127,18 @@ h3 {
   gap: 10px;
   margin: 0 auto;
 }
-
+ /* Footer */
+  .site-footer {
+    background-color: #005b8a;
+    color: white;
+    padding: 30px ;
+    text-align: center;
+    margin-top: 85px;
+    position:relative;
+    
+  }
+  
+  .site-footer p {
+    font-size: 1rem;
+  }
 
