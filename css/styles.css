@@ -1,0 +1,32 @@
+/* homepage styles */
+h3 {
+  text-align: center;
+  font-size: 2.225rem;
+}
+
+#productBody {
+  border: 3px solid #0053E2;
+  border-radius: 20px;
+  margin: 0 auto;
+  width: 65rem;
+  top: 50px;
+}
+
+#products {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 0 auto;
+}
+
+.product {
+  text-align: center;
+}
+
+.productImg {
+  display: block;
+  margin: 0 auto;
+  max-width: 250px;
+  max-height: 250px;
+  border-radius: 20px;
+}
