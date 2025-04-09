@@ -5,11 +5,10 @@ h3 {
 }
 
 #productBody {
-  border: 5px solid #0053E2;
+  border: 3px solid #0053E2;
   border-radius: 20px;
   margin: 0 auto;
-  width: 80rem;
-  position: relative;
+  width: 65rem;
   top: 50px;
 }
 
@@ -29,4 +28,5 @@ h3 {
   margin: 0 auto;
   max-width: 250px;
   max-height: 250px;
+  border-radius: 20px;
 }
